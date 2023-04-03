@@ -1,3 +1,15 @@
+#How to install ?
+1) cd frontend
+2) npm init
+3) npm install
+4) npm start
+5) Open another terminal for backend
+6) Install all the required packages for app.py
+7) Make sure to install simple-websocket package in python to avoid errors
+8) Finally, run app.py
+9) Now, Project must be running smoothly
+
+
 # webMl
 This is a web-based application that has been developed to detect objects using a live camera.
 Along with this, I have integrated an OCR model to extract text from images. 
