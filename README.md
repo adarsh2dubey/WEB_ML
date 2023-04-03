@@ -1,4 +1,4 @@
-#How to install ?
+# How to install ?
 1) cd frontend
 2) npm init
 3) npm install
